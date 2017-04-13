@@ -1,0 +1,20 @@
+{
+  "name": "debug_proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/callawaycloud/debug_proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/callawaycloud/debug_proxy#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "http-proxy": "^1.16.2"
+  }
+}
